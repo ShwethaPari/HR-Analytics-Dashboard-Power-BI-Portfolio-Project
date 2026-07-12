@@ -57,7 +57,9 @@ The project utilizes a raw HR employee dataset covering:
 
 ## 🖼️ Dashboard Preview
 
-<div align="center">
-  <!-- If uploading an MP4 screen recording using the GitHub Issues trick, paste your generated link inside the src="" quotes below -->
-  <video src="PASTE_YOUR_POWERBI_VIDEO_URL_HERE" width="100%" controls></video>
-</div>
+https://github.com/user-attachments/assets/80ba0165-80cf-4207-a5e4-bce217bdd387
+
+<img width="1107" height="625" alt="image" src="https://github.com/user-attachments/assets/0920f5b9-b8cc-400c-be1d-a2d5ddbdbb23" />
+
+
+
